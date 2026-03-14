@@ -1,7 +1,6 @@
-# Abilash L
-
-Senior Application Support Analyst  
-Linux | Oracle SQL | Production Support | DevOps Learner
+Hi, I'm Abilash 👋
+Senior Application Support Analyst
+Learning DevOps
 
 ## Resume
 
